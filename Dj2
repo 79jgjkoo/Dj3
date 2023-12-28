@@ -8,6 +8,7 @@ local args = {
         [2] = "1"
     }
 }
+
 game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
 wait(.1)
 local args = {
@@ -20,6 +21,7 @@ local args = {
         [2] = "2"
     }
 }
+
 game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
 wait(.1)
 local args = {
@@ -32,6 +34,7 @@ local args = {
         [2] = "3"
     }
 }
+
 game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
 wait(.1)
 local args = {
@@ -44,6 +47,7 @@ local args = {
         [2] = "4"
     }
 }
+
 game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
 wait(.1)
 local args = {
@@ -56,6 +60,7 @@ local args = {
         [2] = "5"
     }
 }
+
 game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
 wait(.1)
 local args = {
@@ -68,18 +73,7 @@ local args = {
         [2] = "6"
     }
 }
-game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
-wait(.1)
-local args = {
-    [1] = {
-        [1] = {
-            [1] = "FrostDJSpeakerman",
-            [2] = Vector3.new(45.71979522705078, 21.666175842285156, 133.79421997070312),
-            [3] = 1
-        },
-        [2] = "z"
-    }
-}
+
 game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
 wait(.1)
 local args = {
@@ -92,6 +86,7 @@ local args = {
         [2] = "a"
     }
 }
+
 game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
 wait(.1)
 local args = {
@@ -101,9 +96,10 @@ local args = {
             [2] = Vector3.new(45.71979522705078, 21.666175842285156, 133.79421997070312),
             [3] = 1
         },
-        [2] = "f"
+        [2] = "b"
     }
 }
+
 game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
 wait(.1)
 local args = {
@@ -113,9 +109,10 @@ local args = {
             [2] = Vector3.new(45.71979522705078, 21.666175842285156, 133.79421997070312),
             [3] = 1
         },
-        [2] = "r"
+        [2] = "c"
     }
 }
+
 game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
 wait(.1)
 local args = {
@@ -125,9 +122,10 @@ local args = {
             [2] = Vector3.new(45.71979522705078, 21.666175842285156, 133.79421997070312),
             [3] = 1
         },
-        [2] = "x"
+        [2] = "d"
     }
 }
+
 game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
 wait(.1)
 local args = {
@@ -140,5 +138,240 @@ local args = {
         [2] = "e"
     }
 }
+
 game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
-wait(6)
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "FrostDJSpeakerman",
+            [2] = Vector3.new(45.71979522705078, 21.666175842285156, 133.79421997070312),
+            [3] = 1
+        },
+        [2] = "f"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "FrostDJSpeakerman",
+            [2] = Vector3.new(45.71979522705078, 21.666175842285156, 133.79421997070312),
+            [3] = 1
+        },
+        [2] = "g"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "FrostDJSpeakerman",
+            [2] = Vector3.new(45.71979522705078, 21.666175842285156, 133.79421997070312),
+            [3] = 1
+        },
+        [2] = "h"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "FrostDJSpeakerman",
+            [2] = Vector3.new(45.71979522705078, 21.666175842285156, 133.79421997070312),
+            [3] = 1
+        },
+        [2] = "i"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "FrostDJSpeakerman",
+            [2] = Vector3.new(45.71979522705078, 21.666175842285156, 133.79421997070312),
+            [3] = 1
+        },
+        [2] = "j"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "FrostDJSpeakerman",
+            [2] = Vector3.new(45.71979522705078, 21.666175842285156, 133.79421997070312),
+            [3] = 1
+        },
+        [2] = "k"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "FrostDJSpeakerman",
+            [2] = Vector3.new(45.71979522705078, 21.666175842285156, 133.79421997070312),
+            [3] = 1
+        },
+        [2] = "l"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "FrostDJSpeakerman",
+            [2] = Vector3.new(45.71979522705078, 21.666175842285156, 133.79421997070312),
+            [3] = 1
+        },
+        [2] = "m"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "FrostDJSpeakerman",
+            [2] = Vector3.new(45.71979522705078, 21.666175842285156, 133.79421997070312),
+            [3] = 1
+        },
+        [2] = "o"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "FrostDJSpeakerman",
+            [2] = Vector3.new(45.71979522705078, 21.666175842285156, 133.79421997070312),
+            [3] = 1
+        },
+        [2] = "o"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "FrostDJSpeakerman",
+            [2] = Vector3.new(45.71979522705078, 21.666175842285156, 133.79421997070312),
+            [3] = 1
+        },
+        [2] = "p"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "FrostDJSpeakerman",
+            [2] = Vector3.new(45.71979522705078, 21.666175842285156, 133.79421997070312),
+            [3] = 1
+        },
+        [2] = "q"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "FrostDJSpeakerman",
+            [2] = Vector3.new(45.71979522705078, 21.666175842285156, 133.79421997070312),
+            [3] = 1
+        },
+        [2] = "u"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)\
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "FrostDJSpeakerman",
+            [2] = Vector3.new(45.71979522705078, 21.666175842285156, 133.79421997070312),
+            [3] = 1
+        },
+        [2] = "v"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "FrostDJSpeakerman",
+            [2] = Vector3.new(45.71979522705078, 21.666175842285156, 133.79421997070312),
+            [3] = 1
+        },
+        [2] = "w"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "FrostDJSpeakerman",
+            [2] = Vector3.new(45.71979522705078, 21.666175842285156, 133.79421997070312),
+            [3] = 1
+        },
+        [2] = "x"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "FrostDJSpeakerman",
+            [2] = Vector3.new(45.71979522705078, 21.666175842285156, 133.79421997070312),
+            [3] = 1
+        },
+        [2] = "y"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "FrostDJSpeakerman",
+            [2] = Vector3.new(45.71979522705078, 21.666175842285156, 133.79421997070312),
+            [3] = 1
+        },
+        [2] = "z"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
